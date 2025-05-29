@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="img/Map-Stroke_Logo.png" alt="logo" width="400" />
+  <img src="img/Map-Stroke_Logo.png" alt="logo" width="250" />
 </p>
 
 
