@@ -8,5 +8,5 @@ We developed a novel stroke triage algorithm using jointly fit Bayesian models, 
 
 The repository has the main functions and simulated data sets used in the MAP-STROKE project.
 
-1. _**Data**_: query and input datasets of synthetic peptide substrates and their cleavage susceptibilities across a diverse set of proteases. 
+1. _**Data**_: query and input datasets of synthetic stroke events. 
 
