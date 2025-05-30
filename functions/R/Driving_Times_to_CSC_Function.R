@@ -9,7 +9,7 @@
 #' @import units
 #' @import dplyr
 
-options(openrouteservice.url = "http://ph-gb.iowa.uiowa.edu:8080/ors")
+options(openrouteservice.url = "http://XXXX/ors")
 
 
 GetDrivingTimeCSC<-function(closest_five_PSCs,facilities,warn = TRUE){
