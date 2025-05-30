@@ -8,7 +8,7 @@
 #' @import units
 #' @import dplyr
 
-options(openrouteservice.url = "http://XXXX/ors")
+options(openrouteservice.url = "http://#####/ors")
 
 
 GetDrivingTimeAllPSCtoCSC<-function(facilities,warn = TRUE){
