@@ -11,7 +11,7 @@
 #' @import units
 #' @import dplyr
 
-options(openrouteservice.url = "http://ph-gb.iowa.uiowa.edu:8080/ors")
+options(openrouteservice.url = "http://XXXXX/ors")
 
 
 GetDrivingTime<-function(random_stroke,facilities,number_hostipals=5, hospital_type="PSC", warn = TRUE){
