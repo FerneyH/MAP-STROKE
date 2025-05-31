@@ -158,7 +158,7 @@ GetStrokes <- function(stroke_rate, population, density, counties, state_code=FA
                                               dplyr::mutate(stroke_type="Mimic",category="Mimic")
   
   
-  state <- states%>%filter(STATEFP == state_code)%>%dplyr::select(geometry)%>%st_transform("EPSG:4326")
+  state <- tigris::states(progress = FALSE)%>%dplyr::filter(STATEFP == state_code)%>%dplyr::select(geometry)%>%st_transform("EPSG:4326")
   
   initial<-data.frame()
   Random_strokes <- function(dset, output, state, counties,county_code) {
