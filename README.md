@@ -30,7 +30,10 @@ The repository contains the main functions and simulated datasets used in the MA
 
    -`DrivingTimestoHospital.R`: Contains code for generating driving times to local hospitals;
 
-   -`RandomWeightedStrokeEvents.R`: Contains code for generating random stroke event locations based on population density and county-level rates from the CDC.
+   -`RandomWeightedStrokeEvents.R`: Contains code for generating random stroke event locations based on population density and county-level rates from the CDC;
+
+   -`simulation_batch.R`: R file used to do simulations on the HPC.
+
    
     
 
