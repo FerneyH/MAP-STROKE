@@ -1,4 +1,0 @@
-#!/bin/bash
-Rscript simulation_batch.R $SGE_TASK_ID
-
-
