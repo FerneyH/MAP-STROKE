@@ -9,7 +9,7 @@ We developed a novel personalized prehospital destination selection algorithm us
 The repository contains the main functions and simulated datasets used in the MAP-STROKE project.
 
 1. _**Data**_: Contains census tract datasets for each state and summary data from GWTG.
-2. _**Generated**_: Contains simulated stroke locations and driving times to the EVT-capable stroke centers and Local Hospitals.
+2. _**Generated**_: Contains simulated stroke locations and driving times to the EVT-capable stroke centers and local hospitals.
 3. _**Code**_: Contains the functions used:
    
    -`Multinomial.Cpp`: Contains Rcpp functions for performing tasks related to multinomial regression;
