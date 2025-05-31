@@ -18,7 +18,7 @@ The repository has the main functions and simulated data sets used in the MAP-ST
 
   -`TruncatedPoisson.Cpp`: Contains Rcpp functions that much more efficiently perform tasks for truncated Poisson distributions;
 
-  -`therFunctions.R` - Contains code for getting RUCA codes and generating probability of receiving EVT;
+  -`OtherFunctions.R` - Contains code for getting RUCA codes and generating probability of receiving EVT;
 
   -`PredictionFunctions.R` - Contains code for getting predictions from our model;
 
