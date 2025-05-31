@@ -1,6 +1,6 @@
 # Loading stuff here
 ## R packages
-library(sf)       # Maps 
+library(sf)      
 library(dplyr)
 library(readxl)
 library(units)
