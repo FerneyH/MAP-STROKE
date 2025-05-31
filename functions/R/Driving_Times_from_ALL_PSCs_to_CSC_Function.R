@@ -8,7 +8,7 @@
 #' @import units
 #' @import dplyr
 
-options(openrouteservice.url = "http://ph-gb.iowa.uiowa.edu:8080/ors")
+options(openrouteservice.url = "http://#####/ors")
 
 
 GetDrivingTimeAllPSCtoCSC<-function(facilities,warn = TRUE){
