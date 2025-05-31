@@ -10,7 +10,7 @@ The repository contains the main functions and simulated datasets used in the MA
 
 1. _**Data**_: Contains census tract datasets for each state and summary data from GWTG.
 2. _**Generated**_: Contains simulated stroke locations and driving times to the EVT-capable stroke centers and local hospitals.
-3. _**Code**_: Contains the functions used:
+3. _**Code**_: 
    
    -`Multinomial.Cpp`: Contains Rcpp functions for performing tasks related to multinomial regression;
 
